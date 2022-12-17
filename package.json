@@ -1,0 +1,16 @@
+{
+  "name": "unit_integration_tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "module": "ES2020",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "collectCoverage": true
+  },
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
